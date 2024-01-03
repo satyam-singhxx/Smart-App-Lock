@@ -49,22 +49,22 @@ The project folder contains the following additional data:
 
 ### Screenshots
 
-- [Link to Screenshots](screenshots/)
+- [Link to Screenshots](https://github.com/satyam-singhxx/Smart-App-Lock/blob/main/App%20Screenchort.jpeg)
   - View screenshots of the Smart Lock mobile app to get a visual overview of its user interface.
 
 ### Smart Lock App
 
-- [Smart Lock App](app/)
+- [Smart Lock App](https://github.com/satyam-singhxx/Smart-App-Lock/blob/main/Smart%20Lock.apk)
   - The Smart Lock mobile app itself. Install it on your mobile device to interact with the locking system.
 
 ### Project Report
 
-- [Project Report](project-report/)
+- [Project Report](https://github.com/satyam-singhxx/Smart-App-Lock/blob/main/project%20report.docx)
   - Find detailed information about the project, including a PowerPoint presentation (PPT), synopsis, and other project-related documents.
 
 ### ESP32 Sketch
 
-- [ESP32 Sketch](esp32-sketch/)
+- [ESP32 Sketch](https://github.com/satyam-singhxx/Smart-App-Lock/blob/main/LOCK_FINAL/LOCK_FINAL.ino)
   - The Arduino sketch for the ESP32 microcontroller. Use this code to program your ESP32 for the Smart App Lock project.
 
 ## Running the Project
